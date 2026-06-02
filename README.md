@@ -1,5 +1,8 @@
 # Hi, I'm Mike Mora
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mike%20Mora-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikemora/)
+[![GitHub](https://img.shields.io/badge/GitHub-mickemora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mickemora)
+
 Senior Technology Manager focused on enterprise technology leadership, cloud modernization, Agile delivery, and applied AI.
 
 I work at the intersection of technology leadership, enterprise architecture, software delivery, cloud modernization, and practical AI adoption. My focus is on translating business needs into scalable technology solutions, aligning IT execution with strategic objectives, and helping teams deliver reliable, modern, and business-relevant platforms.
