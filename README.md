@@ -5,6 +5,23 @@
 
 Senior Technology Manager focused on enterprise technology leadership, cloud modernization, Agile delivery, and applied AI.
 
+## AWS Certification Portfolio
+
+![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Generative AI Developer Professional](https://img.shields.io/badge/AWS-Generative_AI_Developer_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Machine Learning Engineer Associate](https://img.shields.io/badge/AWS-Machine_Learning_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![AWS Data Engineer Associate](https://img.shields.io/badge/AWS-Data_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Database Specialty](https://img.shields.io/badge/AWS-Database_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![AWS Data Analytics Specialty](https://img.shields.io/badge/AWS-Data_Analytics_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PMP](https://img.shields.io/badge/PMP-Certified-2E8B57?style=for-the-badge)
+![CSM](https://img.shields.io/badge/CSM-Certified-1E90FF?style=for-the-badge)
+![CSPO](https://img.shields.io/badge/CSPO-Certified-1E90FF?style=for-the-badge)
+
+> Building practical AI, cloud, and enterprise technology capabilities that create measurable business value.
+
 I work at the intersection of technology leadership, enterprise architecture, software delivery, cloud modernization, and practical AI adoption. My focus is on translating business needs into scalable technology solutions, aligning IT execution with strategic objectives, and helping teams deliver reliable, modern, and business-relevant platforms.
 
 ## Professional Focus
