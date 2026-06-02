@@ -106,20 +106,6 @@ Enterprise Systems       Vendor Management, Governance, Risk, Financials
 Business Alignment       Stakeholder Engagement, Product Ownership, Value Delivery
 ```
 
-## Certifications
-
-### AWS Certifications
-
-- AWS Certified Solutions Architect – Professional
-- AWS Certified Generative AI Developer – Professional
-- AWS Certified Machine Learning Engineer – Associate
-- AWS Certified Data Engineer – Associate
-- AWS Certified AI Practitioner
-- AWS Certified Database – Specialty
-- AWS Certified Data Analytics – Specialty
-- AWS Certified Developer – Associate
-- AWS Certified Cloud Practitioner
-
 ### Project, Agile, and Product Certifications
 
 - Project Management Professional (PMP)
