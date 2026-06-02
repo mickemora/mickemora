@@ -106,12 +106,6 @@ Enterprise Systems       Vendor Management, Governance, Risk, Financials
 Business Alignment       Stakeholder Engagement, Product Ownership, Value Delivery
 ```
 
-### Project, Agile, and Product Certifications
-
-- Project Management Professional (PMP)
-- Certified ScrumMaster (CSM)
-- Certified Scrum Product Owner (CSPO)
-
 ## Education
 
 - Master of Science in Management Information Systems, Texas A&M University
