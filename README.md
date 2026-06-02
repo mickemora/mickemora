@@ -116,8 +116,6 @@ I am focused on building practical capabilities that connect enterprise strategy
 
 My current professional learning direction is centered on this question:
 
-> What concrete capabilities should I intentionally build over the next 2–5 years that will make me strategically indispensable?
-
 For me, that means continuing to build depth in:
 
 - Generative AI
