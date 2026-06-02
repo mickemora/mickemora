@@ -11,10 +11,6 @@ Senior Technology Manager focused on enterprise technology leadership, cloud mod
 ![AWS Generative AI Developer Professional](https://img.shields.io/badge/AWS-Generative_AI_Developer_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Machine Learning Engineer Associate](https://img.shields.io/badge/AWS-Machine_Learning_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-![AWS Data Engineer Associate](https://img.shields.io/badge/AWS-Data_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Database Specialty](https://img.shields.io/badge/AWS-Database_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 ![AWS Data Analytics Specialty](https://img.shields.io/badge/AWS-Data_Analytics_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![PMP](https://img.shields.io/badge/PMP-Certified-2E8B57?style=for-the-badge)
 ![CSM](https://img.shields.io/badge/CSM-Certified-1E90FF?style=for-the-badge)
