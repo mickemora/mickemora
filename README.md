@@ -131,7 +131,3 @@ For me, that means continuing to build depth in:
 - AI-enabled business operations
 - Technology leadership
 
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/mikemora/
-- GitHub: https://github.com/mickemora
