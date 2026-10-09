@@ -60,6 +60,14 @@ A solution design exploring how Amazon Bedrock Agents can use Lambda Action Grou
 
 **Focus areas:** Amazon Bedrock Agents, AWS Lambda, DynamoDB, Action Groups, agent-to-tool integration, enterprise AI architecture.
 
+### Amazon Bedrock AgentCore — HelloAgent
+
+A hands-on agentic AI engineering project demonstrating how to build, deploy, and securely integrate AI agents with enterprise services using Amazon Bedrock AgentCore. Progressed from local tool execution (V1) to an MCP-based architecture (V2) connecting a Strands AI agent to AWS Lambda through AgentCore Gateway, with IAM authentication and AWS CDK infrastructure management.
+
+**Focus areas:** Amazon Bedrock AgentCore, Strands Agents, MCP, AgentCore Gateway, AWS Lambda, IAM/SigV4, AWS CDK, serverless architecture, secure agent-to-tool integration.
+
+**Repository:** [bedrock-agentcore-hello-agent](https://github.com/mickemora/bedrock-agentcore-hello-agent)
+
 ### Amazon Bedrock Code Generation
 
 A serverless GenAI prototype that uses AWS Lambda, Amazon Bedrock Runtime, Anthropic Claude, and Amazon S3 to generate and store code artifacts from high-level prompts.
