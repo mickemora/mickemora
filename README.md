@@ -62,6 +62,14 @@ A hands-on enterprise AI engineering project exploring airline disruption manage
 
 **Repository:** [airline-operations-intelligence](https://github.com/mickemora/airline-operations-intelligence)
 
+### Airline Disruption Impact Graph — Amazon Neptune Serverless
+
+A hands-on AWS graph engineering project demonstrating how airline disruptions propagate across interconnected aircraft, crew, and passenger operations. Built using Amazon Neptune Serverless, openCypher, AWS Lambda, and AWS CDK, the solution models operational dependencies, analyzes cascading flight delays, identifies missed passenger connections and crew duty-limit impacts, and evaluates alternative rebooking options using synthetic airline data.
+
+**Focus areas:** Amazon Neptune Serverless, Graph Databases, openCypher, AWS Lambda, AWS CDK, Python, Graph Modeling, Operational Analytics, Airline Disruption Management.
+
+**Repository:** [neptune-airline-disruption-graph](https://github.com/mickemora/neptune-airline-disruption-graph)
+
 ### Amazon Bedrock Multi-Agent
 
 A solution design exploring how Amazon Bedrock Agents can use Lambda Action Groups to connect natural language workflows with backend business systems.
