@@ -54,6 +54,14 @@ Current areas of focus include:
 
 ## Featured Projects
 
+### Airline Operations Intelligence
+
+A hands-on enterprise AI engineering project exploring airline disruption management through flight delay propagation, with a roadmap toward governed lakehouse data, knowledge graphs, and agentic AI decision support. Includes a Python-based simulation engine, synthetic multi-aircraft scenarios, automated testing, and reproducible data exports.
+
+**Focus areas:** Python, Databricks, Delta Lake, Unity Catalog, Knowledge Graphs, Amazon Neptune, Amazon Bedrock, Agentic AI, Data Engineering, Enterprise AI Architecture.
+
+**Repository:** [airline-operations-intelligence](https://github.com/mickemora/airline-operations-intelligence)
+
 ### Amazon Bedrock Multi-Agent
 
 A solution design exploring how Amazon Bedrock Agents can use Lambda Action Groups to connect natural language workflows with backend business systems.
