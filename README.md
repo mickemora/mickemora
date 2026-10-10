@@ -5,7 +5,7 @@
 
 Senior Technology Manager focused on enterprise technology leadership, cloud modernization, Agile delivery, and applied AI.
 
-## AWS Certification Portfolio
+## Certification Portfolio
 
 ![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Generative AI Developer Professional](https://img.shields.io/badge/AWS-Generative_AI_Developer_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
