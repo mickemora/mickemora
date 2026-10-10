@@ -76,6 +76,8 @@ A solution design exploring how Amazon Bedrock Agents can use Lambda Action Grou
 
 **Focus areas:** Amazon Bedrock Agents, AWS Lambda, DynamoDB, Action Groups, agent-to-tool integration, enterprise AI architecture.
 
+**Repository:** [Amazon-Bedrock-MultiAgent](https://github.com/mickemora/Amazon-Bedrock-MultiAgent)
+
 ### Amazon Bedrock AgentCore — HelloAgent
 
 A hands-on agentic AI engineering project demonstrating how to build, deploy, and securely integrate AI agents with enterprise services using Amazon Bedrock AgentCore. Progressed from local tool execution (V1) to an MCP-based architecture (V2) connecting a Strands AI agent to AWS Lambda through AgentCore Gateway, with IAM authentication and AWS CDK infrastructure management.
@@ -90,17 +92,23 @@ A serverless GenAI prototype that uses AWS Lambda, Amazon Bedrock Runtime, Anthr
 
 **Focus areas:** Bedrock Runtime, Claude prompt design, Lambda orchestration, S3 artifact storage, AI-assisted software delivery.
 
+**Repository:** [Amazon-Bedrock-Code-Generation](https://github.com/mickemora/Amazon-Bedrock-Code-Generation)
+
 ### AI Agents Training Lab
 
 A structured learning repository for AI agents, agentic workflows, tool-using agents, RAG, Bedrock agents, multi-agent systems, and enterprise AI use cases.
 
 **Focus areas:** AI agent fundamentals, tool orchestration, RAG, multi-agent workflows, evaluation, and governance.
 
+**Repository:** [mm__ai_agents_training](https://github.com/mickemora/mm__ai_agents_training)
+
 ### Generative AI Use Cases
 
 A growing catalog of practical GenAI business use cases, starting with warranty operations and expanding into quality, enterprise IT, software delivery, and knowledge management.
 
 **Focus areas:** business value framing, analyst copilots, early warning signal summarization, field concern reporting, knowledge base Q&A.
+
+**Repository:** [mm_generative_ai_use_cases](https://github.com/mickemora/mm_generative_ai_use_cases)
 
 ## Experience Themes
 
