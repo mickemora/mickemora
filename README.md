@@ -62,6 +62,14 @@ A hands-on enterprise AI engineering project exploring airline disruption manage
 
 **Repository:** [airline-operations-intelligence](https://github.com/mickemora/airline-operations-intelligence)
 
+### Airline On-Time Analytics Semantic Layer
+
+An AWS-based semantic layer demonstrating how airline route reference data and flight performance records can be unified through a single GraphQL API. Uses governed, configurable on-time definitions to deliver consistent reliability, cancellation, and arrival-delay metrics to analytics applications, using reproducible synthetic flight data.
+
+**Focus areas:** AWS AppSync, GraphQL, AWS Lambda, Amazon DynamoDB, Amazon S3, AWS CDK, Python, Semantic Layers, Data Governance, Airline Performance Analytics.
+
+**Repository:** [airline-ontime-semantic-layer](https://github.com/mickemora/airline-ontime-semantic-layer)
+
 ### Airline Disruption Impact Graph — Amazon Neptune Serverless
 
 A hands-on AWS graph engineering project demonstrating how airline disruptions propagate across interconnected aircraft, crew, and passenger operations. Built using Amazon Neptune Serverless, openCypher, AWS Lambda, and AWS CDK, the solution models operational dependencies, analyzes cascading flight delays, identifies missed passenger connections and crew duty-limit impacts, and evaluates alternative rebooking options using synthetic airline data.
