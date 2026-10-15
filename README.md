@@ -54,6 +54,14 @@ Current areas of focus include:
 
 ## Featured Projects
 
+### Insurance Telematics & Generative AI
+
+An end-to-end AWS insurance technology demo transforming synthetic vehicle telematics into explainable driver safety scores, personalized AI coaching, and streamlined claims workflows. Combines rule-based crash triage, human-reviewed first notice of loss (FNOL) drafts, and an Amazon Bedrock Agent copilot with grounded outputs, guardrails, and read-only tools.
+
+**Focus areas:** Insurance Telematics, Generative AI, Amazon Bedrock, Bedrock Agents, Anthropic Claude, AWS Step Functions, EventBridge, AWS Lambda, DynamoDB, API Gateway, CloudFront, AWS CDK, Responsible AI, Human-in-the-Loop Claims Processing.
+
+**Repository:** [insurance-telematics-genai](https://github.com/mickemora/insurance-telematics-genai)
+
 ### Airline Operations Intelligence
 
 A hands-on enterprise AI engineering project exploring airline disruption management through flight delay propagation, with a roadmap toward governed lakehouse data, knowledge graphs, and agentic AI decision support. Includes a Python-based simulation engine, synthetic multi-aircraft scenarios, automated testing, and reproducible data exports.
