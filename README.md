@@ -54,6 +54,14 @@ Current areas of focus include:
 
 ## Featured Projects
 
+### Supplier Quality Copilot — Agentic AI & Root-Cause Intelligence
+
+An AWS-based generative AI copilot for aerospace and defense supplier quality operations. Ingests nonconformance reports (NCRs), 8D reports, and supplier corrective action requests (SCARs), structures quality records, identifies recurring root causes across suppliers, and delivers evidence-backed answers with source citations. Combines semantic retrieval and an Amazon Bedrock Agent with human-reviewed SCAR drafting, traceable decisions, and guardrails, using synthetic supplier data.
+
+**Focus areas:** Supplier Quality Management, Agentic AI, Amazon Bedrock Agents, Bedrock Knowledge Bases, Amazon S3 Vectors, Anthropic Claude, AWS Step Functions, Amazon Textract, Amazon Athena, AWS Lambda, AWS CDK, Root-Cause Analysis, RAG, Human-in-the-Loop AI Governance.
+
+**Repository:** [supplier-quality-copilot](https://github.com/mickemora/supplier-quality-copilot)
+
 ### Insurance Telematics & Generative AI
 
 An end-to-end AWS insurance technology demo transforming synthetic vehicle telematics into explainable driver safety scores, personalized AI coaching, and streamlined claims workflows. Combines rule-based crash triage, human-reviewed first notice of loss (FNOL) drafts, and an Amazon Bedrock Agent copilot with grounded outputs, guardrails, and read-only tools.
