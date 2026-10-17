@@ -56,9 +56,9 @@ Current areas of focus include:
 
 ### Supplier Quality Copilot — Agentic AI & Root-Cause Intelligence
 
-An AWS-based generative AI copilot for aerospace and defense supplier quality operations. Ingests nonconformance reports (NCRs), 8D reports, and supplier corrective action requests (SCARs), structures quality records, identifies recurring root causes across suppliers, and delivers evidence-backed answers with source citations. Combines semantic retrieval and an Amazon Bedrock Agent with human-reviewed SCAR drafting, traceable decisions, and guardrails, using synthetic supplier data.
+An AWS-based generative AI copilot for aerospace and defense supplier quality operations. Transforms NCRs, 8D reports, and SCARs into searchable quality intelligence; detects shared root causes across suppliers; and answers questions with source citations. Adds supplier performance scorecards, auditable rule-based risk ratings, trend and Pareto analysis, and evidence-grounded AI risk briefs to support proactive supplier reviews. Amazon Bedrock Agents assist with corrective action drafting while human reviewers retain approval authority. Built with synthetic supplier data.
 
-**Focus areas:** Supplier Quality Management, Agentic AI, Amazon Bedrock Agents, Bedrock Knowledge Bases, Amazon S3 Vectors, Anthropic Claude, AWS Step Functions, Amazon Textract, Amazon Athena, AWS Lambda, AWS CDK, Root-Cause Analysis, RAG, Human-in-the-Loop AI Governance.
+**Focus areas:** Supplier Quality Management, Agentic AI, Amazon Bedrock Agents, Bedrock Knowledge Bases, Amazon S3 Vectors, Anthropic Claude, AWS Step Functions, Amazon Textract, Amazon Athena, AWS Lambda, AWS CDK, Supplier Risk Scorecards, Root-Cause Analysis, RAG, Human-in-the-Loop AI Governance.
 
 **Repository:** [supplier-quality-copilot](https://github.com/mickemora/supplier-quality-copilot)
 
