@@ -54,6 +54,14 @@ Current areas of focus include:
 
 ## Featured Projects
 
+### Geospatial Change Detection & Generative AI
+
+An AWS-based geospatial intelligence demo that compares open Sentinel-2 satellite imagery across two dates to identify and explain land-surface changes. A map-based interface lets analysts select an area of interest; a serverless workflow detects construction, vegetation changes, and other surface changes, then uses a multimodal Amazon Bedrock model to generate an evidence-grounded analyst report with confidence and limitations. Uses only open civilian data.
+
+**Focus areas:** Geospatial AI, Satellite Imagery, Change Detection, Amazon Bedrock, Multimodal Generative AI, AWS Step Functions, Amazon ECS Fargate, AWS Lambda, API Gateway, DynamoDB, Amazon S3, CloudFront, AWS CDK, Responsible AI.
+
+**Repository:** [geospatial-change-detection-genai](https://github.com/mickemora/geospatial-change-detection-genai)
+
 ### Supplier Quality Copilot — Agentic AI & Root-Cause Intelligence
 
 An AWS-based generative AI copilot for aerospace and defense supplier quality operations. Transforms NCRs, 8D reports, and SCARs into searchable quality intelligence; detects shared root causes across suppliers; and answers questions with source citations. Adds supplier performance scorecards, auditable rule-based risk ratings, trend and Pareto analysis, and evidence-grounded AI risk briefs to support proactive supplier reviews. Amazon Bedrock Agents assist with corrective action drafting while human reviewers retain approval authority. Built with synthetic supplier data.
