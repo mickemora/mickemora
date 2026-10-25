@@ -54,6 +54,14 @@ Current areas of focus include:
 
 ## Featured Projects
 
+### Fleet Reliability Connectivity Pilot — Enterprise Ontology & Lakehouse
+
+An AWS-based aircraft maintenance reliability pilot that connects defects, MEL deferrals, work orders, component removals, repair vendors, and operational impacts through a shared enterprise ontology. Combines an Amazon Neptune Serverless knowledge graph and SPARQL competency questions with an ontology-driven Delta Lakehouse for Databricks, enabling consistent reliability analysis across graph exploration and governed analytics. Includes a Fleet Reliability Explorer with optional Amazon Bedrock natural-language search and uses synthetic airline data.
+
+**Focus areas:** Enterprise Ontology Engineering, Knowledge Graphs, RDF, OWL, SKOS, SHACL, SPARQL, Amazon Neptune Serverless, Databricks, Delta Lake, Unity Catalog, AWS Glue, Amazon Athena, Amazon Bedrock, AWS Step Functions, AWS Lambda, AWS CDK, Aircraft Maintenance Reliability, Semantic Layers, Data Governance.
+
+**Repository:** [fleet-reliability-knowledge-graph](https://github.com/mickemora/fleet-reliability-knowledge-graph)
+
 ### Warranty Knowledge Connectivity Pilot — Enterprise Ontology & Knowledge Graph
 
 An AWS-based enterprise ontology and knowledge graph pilot that connects warranty claims, vehicles, dealers, repair orders, parts, and suppliers to uncover relationships that are difficult to see across disconnected systems. Implements a shared warranty ontology, validated synthetic data, and ten business competency questions in SPARQL, surfaced through a Warranty Claim Explorer web application with optional Amazon Bedrock natural-language search. Designed as a six-week pilot to demonstrate how connected knowledge can accelerate warranty analysis and cross-functional decision-making.
