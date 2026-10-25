@@ -54,6 +54,14 @@ Current areas of focus include:
 
 ## Featured Projects
 
+### Warranty Knowledge Connectivity Pilot — Enterprise Ontology & Knowledge Graph
+
+An AWS-based enterprise ontology and knowledge graph pilot that connects warranty claims, vehicles, dealers, repair orders, parts, and suppliers to uncover relationships that are difficult to see across disconnected systems. Implements a shared warranty ontology, validated synthetic data, and ten business competency questions in SPARQL, surfaced through a Warranty Claim Explorer web application with optional Amazon Bedrock natural-language search. Designed as a six-week pilot to demonstrate how connected knowledge can accelerate warranty analysis and cross-functional decision-making.
+
+**Focus areas:** Enterprise Ontology Engineering, Knowledge Graphs, RDF, OWL, SHACL, SPARQL, Amazon Neptune Serverless, Amazon Bedrock, AWS Step Functions, AWS Lambda, Amazon API Gateway, Amazon S3, CloudFront, AWS CDK, Data Quality, Semantic Modeling.
+
+**Repository:** [warranty-knowledge-graph](https://github.com/mickemora/warranty-knowledge-graph)
+
 ### Geospatial Change Detection & Generative AI
 
 An AWS-based geospatial intelligence demo that compares open Sentinel-2 satellite imagery across two dates to identify and explain land-surface changes. A map-based interface lets analysts select an area of interest; a serverless workflow detects construction, vegetation changes, and other surface changes, then uses a multimodal Amazon Bedrock model to generate an evidence-grounded analyst report with confidence and limitations. Uses only open civilian data.
